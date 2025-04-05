@@ -3,7 +3,8 @@
 
 🎓 B.Tech Information Technology @ Sri Ramakrishna Engineering College (2023–2027)  
 💻 Passionate about Full-Stack Development | Java Enthusiast | Problem Solver
-<img align="right" width="330" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+<img align="right" width="365" height="275" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 ### 🚀 Currently Learning
@@ -14,13 +15,13 @@
 ### 📫 Connect With Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariharan-r06/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hariharan-r06)
----
+
 
 ## 🧠 Coding Platforms
 [<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />](https://leetcode.com/u/hariharan-r06/)
 [<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />](https://www.hackerrank.com/hariharan_230501)
 [<img src="https://img.shields.io/badge/SkillRack-Profile-blue?style=for-the-badge" />](https://www.skillrack.com/faces/resume.xhtml?id=445660&key=73cb7f39e239ecdaa151bcdd834dd2347ec77d2f)
----
+
 
 
 ### I code in
