@@ -4,7 +4,7 @@
 🎓 B.Tech Information Technology @ Sri Ramakrishna Engineering College (2023–2027)  
 💻 Passionate about Full-Stack Development | Java Enthusiast | Problem Solver
 
-<img align="right" width="365" height="275" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="355" height="255" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 ### 🚀 Currently Learning
