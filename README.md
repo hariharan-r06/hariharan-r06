@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Hariharan R
+## 👋 Hi, I'm Hariharan 
 
 
 🎓 B.Tech Information Technology @ Sri Ramakrishna Engineering College (2023–2027)  
