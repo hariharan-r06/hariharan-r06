@@ -9,7 +9,7 @@
 
 ### 🚀 Currently Learning
 - Java DSA and Backend Development
-- React.js and Full-Stack Web Dev
+- Full-Stack Web Dev
 - Problem Solving on LeetCode & HackerRank
 
 ### 📫 Connect With Me  
