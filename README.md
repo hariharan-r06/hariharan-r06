@@ -24,11 +24,15 @@
 
 
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+### 🚀 I Code In
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/> <img height="40" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/><img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/> <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" title="Firebase"/>
+
+---
+
+### 🧰 IDE and Tools I Use
+
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/> <img height="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png" title="Eclipse"/> <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA"/>
 
 ## Coding Status
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hariharan-r06?font=Dancing_Script)](https://leetcode.com/u/hariharan-r06/)
