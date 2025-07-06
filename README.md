@@ -1,9 +1,10 @@
 ## 👋 Hi, I'm Hariharan 
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=hariharan-r06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 🎓 B.Tech Information Technology @ Sri Ramakrishna Engineering College (2023–2027)  
 💻 Passionate about Full-Stack Development | Java Enthusiast | Problem Solver
-
 <img align="right" width="355" height="255" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
@@ -15,6 +16,7 @@
 ### 📫 Connect With Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariharan-r06/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hariharan-r06)
+
 
 
 ## 🧠 Coding Platforms
