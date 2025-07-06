@@ -3,16 +3,21 @@
   <img src="https://komarev.com/ghpvc/?username=hariharan-r06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-🎓 B.Tech Information Technology @ Sri Ramakrishna Engineering College (2023–2027)  
-💻 Passionate about Full-Stack Development | Java Enthusiast | Problem Solver
-<img align="right" width="355" height="255" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+🎓 **B.Tech in Information Technology**  
+   @Sri Ramakrishna Engineering College, Coimbatore (2023–2027)
 
+💻 **Aspiring Full-Stack Developers** | **Java Enthusiast** | **Problem Solver**
+
+🔧 I enjoy building backend services using **Spring Boot**, creating interactive UIs with **React.js**, and solving algorithmic problems using **Java**.
+
+---
 
 ### 🚀 Currently Learning
+
 - Java DSA and Backend Development
 - Full-Stack Web Dev
-- Problem Solving on LeetCode & HackerRank
-
+- End-to-end applications
+  
 ### 📫 Connect With Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariharan-r06/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hariharan-r06)
@@ -34,7 +39,7 @@
 
 ### 🧰 IDE and Tools I Use
 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/> <img height="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png" title="Eclipse"/> <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/> <img width="40" height="50" src="https://img.icons8.com/office/40/java-eclipse.png" alt="java-eclipse"/> <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA"/>
 
 ## Coding Status
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hariharan-r06?font=Dancing_Script)](https://leetcode.com/u/hariharan-r06/)
