@@ -47,3 +47,8 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Lenovo-LOQ_15APH8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7840HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-r06&show_icons=true&locale=en" alt="hariharan-r06" />
+</p>
+
+
