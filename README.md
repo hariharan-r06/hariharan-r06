@@ -26,7 +26,7 @@
 
 ## 🧠 Coding Platforms
 [<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />](https://leetcode.com/u/hariharan-r06/)
-[<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />](https://www.hackerrank.com/hariharan_230501)
+[<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />](https://www.hackerrank.com/hari_2305032)
 [<img src="https://img.shields.io/badge/SkillRack-Profile-blue?style=for-the-badge" />](https://www.skillrack.com/faces/resume.xhtml?id=445660&key=73cb7f39e239ecdaa151bcdd834dd2347ec77d2f)
 
 
