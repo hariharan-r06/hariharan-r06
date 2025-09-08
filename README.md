@@ -1,22 +1,24 @@
 ## 👋 Hi, I'm Hariharan 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=hariharan-r06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hariharan-r06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-🎓 **B.Tech in Information Technology**  
-   @Sri Ramakrishna Engineering College, Coimbatore (2023–2027)
+  **B.Tech in Information Technology**, Pre-Final Year🎓  
+**Sri Ramakrishna Engineering College, Coimbatore** *(2023–2027)*  
 
-💻 **Aspiring Full-Stack Developers** | **Java Enthusiast** | **Problem Solver**
+💻 **Full-Stack Developer** | **Java Enthusiast** | **Problem Solver**  
 
-🔧 I enjoy building backend services using **Spring Boot**, creating interactive UIs with **React.js**, and solving algorithmic problems using **Java**.
+🔧 I enjoy **designing scalable systems**, **crafting seamless user experiences**, and **solving algorithmic challenges**.  
+My focus is on building **efficient, high-quality software** that delivers real-world impact.
 
 ---
 
-### 🚀 Currently Learning
+## 🚀 Currently Learning  
+- **Data Structures & Algorithms** in Java  
+- Backend development and system design  
+- Building robust end-to-end applications  
 
-- Java DSA and Backend Development
-- Full-Stack Web Dev
-- End-to-end applications
+---
   
 ### 📫 Connect With Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariharan-r06/)
@@ -45,5 +47,15 @@
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Lenovo-LOQ_15APH8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7840HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-r06&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-r06&theme=tokyonight" alt="GitHub Streak" height="160px" />
+</p>
+
+
 
 
