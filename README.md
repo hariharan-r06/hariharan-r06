@@ -29,17 +29,16 @@
 [<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />](https://www.hackerrank.com/hari_2305032)
 [<img src="https://img.shields.io/badge/SkillRack-Profile-blue?style=for-the-badge" />](https://www.skillrack.com/faces/resume.xhtml?id=445660&key=73cb7f39e239ecdaa151bcdd834dd2347ec77d2f)
 
-
-
-### 🚀 I Code In
-
-<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/> <img height="40" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/><img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/> <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" title="Firebase"/>
+ 
+### 🚀 I Code In  
+<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/> <img height="40" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/> <img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/> <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/> <img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" title="Firebase"/> <img height="40" src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS"/> <img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>  
 
 ---
 
-### 🧰 IDE and Tools I Use
+### 🧰 IDE and Tools I Use  
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/> <img width="40" height="50" src="https://img.icons8.com/office/40/java-eclipse.png" title="Eclipse"/> <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA"/> <img height="40" src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img height="40" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/> <img height="40" src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/> <img height="40" src="https://img.icons8.com/dusk/64/000000/postman-api.png" title="Postman"/>  
 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/> <img width="40" height="50" src="https://img.icons8.com/office/40/java-eclipse.png" alt="java-eclipse"/> <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA"/>
+
 
 ## Coding Status
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hariharan-r06?font=Dancing_Script)](https://leetcode.com/u/hariharan-r06/)
