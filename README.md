@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=hariharan-r06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-  **B.Tech in Information Technology**, Pre-Final Year🎓  
+  **B.Tech in Information Technology**, Final Year🎓  
 **Sri Ramakrishna Engineering College, Coimbatore** *(2023–2027)*  
 
 💻 **Full-Stack Developer** | **Java Enthusiast** | **Problem Solver**  
